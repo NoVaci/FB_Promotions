@@ -1,0 +1,14 @@
+{
+  "baseUrl": "http://testing.coe.com:30022",
+  "watchForFileChanges": false,
+  "integrationFolder": "demo",
+  "defaultCommandTimeout": 15000,
+  "chromeWebSecurity": false,
+  "ignoreTestFiles": [
+    "**/__snapshots__/*",
+    "**/__image_snapshots__/*"
+  ],
+  "videosFolder": "demo/videos",
+  "screenshotsFolder": "demo/screenshots",
+  "projectId": "m6w1pk"
+}
